@@ -1,7 +1,7 @@
 # Demo-site
 Using Bootstrap 5
 
-This site demo site show the three major sections:
+This demo site show the three major sections:
 1. Login page
 2. An employees dashboard page and
 3. Job details
