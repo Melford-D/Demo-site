@@ -1,10 +1,11 @@
 # Demo-site
 Using Bootstrap 5
 
-This demo site show the three major sections:
-1. Login page
-2. An employees dashboard page and
+This demo site have three major sections:
+1. Employees Login page
+2. Employees dashboard page and
 3. Job details
 
-You cannot login through the Login Page since there is no JavaScript to bring it to live but the pages are linked with each with the help of anchor tags.
+Note:
+You cannot login through the Login Page since there is no JavaScript to bring it to live but the pages are linked with each other with the help of anchor tags.
 Thank You.
